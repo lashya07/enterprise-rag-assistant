@@ -327,9 +327,6 @@ streamlit run app.py
 
 Create your `.env` file before launching the application.
 
-## 📄 License
-
-Choose a license before distributing this project publicly. If you intend to use the MIT License, add a `LICENSE` file containing the MIT license text.
 
 ---
 
